@@ -1,4 +1,4 @@
- LAB: Swapping variables
+LAB: Swapping variables
 Define a function named swap_values that takes four integers as parameters and swaps the first with the second, and the third with the fourth values. Then write a main program that reads four integers from input, calls function swap_values() to swap the values, and prints the swapped values on a single line separated with spaces.
 
 Ex: If the input is:
